@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RF: A Scope for Video Preservation
+title: RF, A Scope for Video Preservation
 ---
 
 Along with a waveform monitor and vectorscope, Radio Frequency, or RF, can serve as an excellent real-time signal evaluation metric when preserving early analog videotape. RF exists as a frequency-modulated signal that bypasses the demodulation process found in most video television recorders (VTRs) and decks. As a result you get what could be considered an EKG-like readout of a videotape’s signal characteristics.
