@@ -21,15 +21,7 @@ Here is a video signal with what could be considered a “normal” RF envelope.
 
 For tapes suffering from sticky-shed syndrome (SSS), the RF scope provides a more intimate account of the head drama unfolding in real time. Above is the resulting RF envelope coming off of a tape with sticky shed, showing one of the two video heads getting “clogged” with loose oxide particles. 
 
-![]({{ site.url }}/assets/img/aja.png)
-
-Here’s the RF envelope off of the same tape a few seconds later, with both video heads completely clogged. The real-time assessment is crucial for acting quickly to deteriorated tape and preventing any further damage to a tape upon playback.	
-
 ![]({{ site.url }}/assets/img/rf_fullheadclog1.jpg)
-
-Here’s the RF envelope off of the same tape a few seconds later, with both video heads completely clogged. The real-time assessment is crucial for acting quickly to deteriorated tape and preventing any further damage to a tape upon playback.
-
-![]({{ site.url }}/assets/img/plainviewpoolcarve_mediainfoinformdetails1_excerpt.png)
 
 Here’s the RF envelope off of the same tape a few seconds later, with both video heads completely clogged. The real-time assessment is crucial for acting quickly to deteriorated tape and preventing any further damage to a tape upon playback.
 
